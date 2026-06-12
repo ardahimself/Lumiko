@@ -1,9 +1,9 @@
 # Privacy Policy
 
-**App:** Negi (the "App")
+**App:** Lumiko (the "App")
 **Last updated:** June 2, 2026
 
-This Privacy Policy explains how Arda Bilen / "Negi" ("we," "us," or "our") collects, uses, shares, and protects your personal information when you use the Negi mobile application. It also describes your privacy rights and how the law protects you.
+This Privacy Policy explains how Arda Bilen / "Lumiko" ("we," "us," or "our") collects, uses, shares, and protects your personal information when you use the Lumiko mobile application. It also describes your privacy rights and how the law protects you.
 
 By using the App, you agree to the collection and use of information as described in this policy. If you do not agree, please do not use the App.
 
@@ -161,4 +161,3 @@ If you have questions or requests regarding this Privacy Policy or your personal
 - **Data controller:** Arda Bilen , Turkey
 
 ---
-
