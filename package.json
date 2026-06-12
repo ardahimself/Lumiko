@@ -1,5 +1,5 @@
 {
-  "name": "negi-bot",
+  "name": "Lumiko-Bot",
   "version": "2.0.0",
   "description": "Comprehensive Discord bot for DonutSMP sub-servers — tickets, trust system, XP, giveaways, anti-raid, and more.",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "ticket-system",
     "moderation"
   ],
-  "author": "ardaarch",
+  "author": "Arda Bilen",
   "license": "UNLICENSED",
   "type": "commonjs",
   "dependencies": {
