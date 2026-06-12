@@ -1,6 +1,6 @@
-# Negi Discord Bot
+# Lumiko Discord Bot
 
-Negi is a comprehensive Discord bot for DonutSMP sub-servers with advanced features including ticket system, payment tracking, trust system, XP/leveling, giveaways, and AI-powered support.
+Lumiko is a comprehensive Discord bot for DonutSMP sub-servers with advanced features including ticket system, payment tracking, trust system, XP/leveling, giveaways, and AI-powered support.
 
 ## Features
 
@@ -25,7 +25,7 @@ Negi is a comprehensive Discord bot for DonutSMP sub-servers with advanced featu
 
 1. Clone or navigate to the project directory:
    ```bash
-   cd path/to/negi-bot
+   cd path/to/lumiko-bot
    ```
 
 2. Install dependencies:
@@ -112,7 +112,7 @@ All tables and migrations are applied on first run.
 ## Project Structure
 
 ```
-negi-bot/
+lumiko-bot/
 ├── src/
 │   ├── commands/          # Slash commands organized by category
 │   │   ├── admin/
